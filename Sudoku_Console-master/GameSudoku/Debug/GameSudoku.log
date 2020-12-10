@@ -1,0 +1,9 @@
+﻿  Sudoku.cpp
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(151,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(151,30): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(624,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(858,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(864,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(875,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tri Tran\Desktop\Sudoku_Console-master\GameSudoku\Sudoku.cpp(411): warning C4715: 'TimViTriDungDeQuy': not all control paths return a value
+  GameSudoku.vcxproj -> C:\Users\Tri Tran\Desktop\Sudoku_Console-master\Debug\GameSudoku.exe
